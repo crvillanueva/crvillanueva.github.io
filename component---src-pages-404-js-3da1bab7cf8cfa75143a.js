@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{9616:function(e,t,r){"use strict";r.r(t),r.d(t,{default:function(){return a}});var l=r(7294),n=r(5414);function a(){return l.createElement("div",null,l.createElement(n.q,null,l.createElement("title",null,"Error")),l.createElement("div",{className:"error-page"},"Esta página no existe."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-3da1bab7cf8cfa75143a.js.map
